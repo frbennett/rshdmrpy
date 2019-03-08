@@ -58,7 +58,7 @@ class rshdmr():
         
     def read_data(self,data_file):
         """
-        dsdsd
+        Read in from either dataframe or csv file
         """
         if isinstance(data_file, pd.DataFrame):
             print(' found a dataframe')
