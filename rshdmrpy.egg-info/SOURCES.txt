@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+rshdmrpy/__init__.py
+rshdmrpy/gmdh.py
+rshdmrpy/rshdmrpy.py
+rshdmrpy.egg-info/PKG-INFO
+rshdmrpy.egg-info/SOURCES.txt
+rshdmrpy.egg-info/dependency_links.txt
+rshdmrpy.egg-info/requires.txt
+rshdmrpy.egg-info/top_level.txt

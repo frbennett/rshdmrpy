@@ -13,7 +13,7 @@ import math
 import numpy as np
 import scipy.special as sp
 from scipy import stats
-from gmdhpy.gmdh import Regressor
+from . gmdh import Regressor
 from itertools import combinations
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import Lasso
