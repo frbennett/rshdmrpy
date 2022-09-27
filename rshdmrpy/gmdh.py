@@ -25,10 +25,10 @@ import time
 import math
 import matplotlib.pyplot as plt
 
-from . gmdhpy.neuron import RefFunctionType, CriterionType
-from . gmdhpy.neuron import Layer, LayerCreationError
-from . gmdhpy.data_preprocessing import train_preprocessing, predict_preprocessing, split_dataset, SequenceTypeSet
-from . gmdhpy.neuron import fit_layer, FitLayerData
+from gmdhpy.neuron import RefFunctionType, CriterionType
+from gmdhpy.neuron import Layer, LayerCreationError
+from gmdhpy.data_preprocessing import train_preprocessing, predict_preprocessing, split_dataset, SequenceTypeSet
+from gmdhpy.neuron import fit_layer, FitLayerData
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from multiprocessing import Pool
 from itertools import islice, chain
