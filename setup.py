@@ -12,8 +12,6 @@ setup(
             'numpy',
             'pandas',
             'matplotlib',
-            'scipy',
-            'sobol-seq',
-            'pyDOE'
+            'scipy'
     ]
 )
