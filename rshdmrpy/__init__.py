@@ -1,6 +1,7 @@
 __version__ = "0.0.1"
+from .gmdh import *
 from .rshdmrpy import *
-from . import gmdh  
+ 
 
 
 
